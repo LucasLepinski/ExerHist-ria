@@ -1,2 +1,2 @@
-# ExerHist-ria
+# ExerHistoria
 crud História
